@@ -116,23 +116,8 @@ Would you like me to generate a LICENSE file or push this into a zip-ready READM
 
 
 
+A
 
-
-
-
-Ask ChatGPT
-You said:
-yes please
-
-
-ChatGPT said:
-Your README.md file is ready, Genius.
-
-📄 Click here to download: README.md
-
-You can now upload this to your GitHub repository to give a professional overview of your HR Attrition Analysis Excel Project.
-
-Would you also like me to generate a standard MIT LICENSE file to include in your repository? 
 
 
 
