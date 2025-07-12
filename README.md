@@ -105,8 +105,8 @@ The `Attrition_Dashboard_Insights_Comments.xlsx` contains:
 
 ## 📬 Contact
 
-> Created by [https://github.com/Datainfo101]  Email: geniusexcel@gmail.com
-> ✉️ For questions or collaboration, feel free to open an issue or connect.
+> Created by [https://github.com/Datainfo101]  
+> ✉️ For questions or collaboration, feel free to open an issue or connect with me via Email: geniusexcel@gmail.com
 
 ---
 
