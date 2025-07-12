@@ -1,5 +1,8 @@
 # HR Employee Attrition Analysis (Excel Dashboard)
 
+<img width="1536" height="820" alt="Image" src="https://github.com/user-attachments/assets/e911b0a2-1891-405b-a118-9dd8fb1054ad" />
+
+
 This project provides a comprehensive analysis of employee attrition using Microsoft Excel. It uses structured datasets and pivot-based dashboards to explore key drivers of employee exit behavior and recommends HR interventions based on visual insights.
 
 ---
