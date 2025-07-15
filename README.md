@@ -111,7 +111,7 @@ SOFTWARE.
 
 ## 💼 Contact
 
-**Francis Umoren**, let’s connect:  
+**Francis Umoren**, let’s connect and colloborate, contact me via:  
 🌐 [linkedin.com/in/francis-umoren-2310356a](#) • ✉️ [Email](geniusexcel@gmail.com)
 
 ---
