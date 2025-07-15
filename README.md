@@ -43,7 +43,7 @@ Use this dashboard to:
    - Input HR dataset (CSV, Excel, etc.) including fields: tenure, income, department, job role, satisfaction scores, and attrition status.
 
 2. **Tech Stack**  
-   - Python, R, or BI tools (e.g., PowerBI, Tableau, Plotly Dash)
+   - Python, R, Microsoft Excel or BI tools (e.g., PowerBI, Tableau, Plotly Dash)
 
 3. **Dashboard Components**  
    - **Summary Metrics**: total employees, attrition rate  
