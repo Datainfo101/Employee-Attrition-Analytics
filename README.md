@@ -1,6 +1,6 @@
 # 📊 HR Employee Attrition Analytics Dashboard
 
-https://private-user-images.githubusercontent.com/220480469/465616767-ae93c3d5-99bc-4318-b4bd-3a782d579d3e.jpg
+![Image](https://github.com/user-attachments/assets/52a26a90-c57b-41a0-9390-f56e5b9d2655)
 
 **A data-driven dashboard to analyze workforce attrition and guide strategic HR interventions.**
 
